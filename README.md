@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdulrehmanQureshii
-- 👀 I’m interested in collaborationg with others on open sourse projects.
+- 👀 I’m interested in collaborationg with others on open source projects.
 - 🌱 I’m currently polishing my python skills which includes all ml dl cv etc
-- 💞️ I’m looking to collaborate on projects related to stocks and health care
+- 💞️ I’m looking to collaborate on projects of any type to learn and enhance my skills.
 - 📫 You can reach me by just mailing me at rehmannnn3232@gmail.com
 
 <!---
